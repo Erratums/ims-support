@@ -6,6 +6,8 @@
     <a href="https://ims.erratums.com"><img alt="Logo" src="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-logo.png" width="100"></a>    
 </p>
 
+<b><a href="https://github.com/Erratums/ims-support/discussions">Discussions</a></b>
+
 ---    
 
 ## Online based all in one solution for your business 
