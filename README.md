@@ -6,7 +6,7 @@
     <a href="https://ims.erratums.com"><img alt="Logo" src="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-logo.png" width="100"></a>    
 </p>
 
-<b><a href="https://github.com/Erratums/ims-support/discussions">Discussions</a></b>
+<b><a href="https://github.com/Erratums/ims-support/discussions">Goto Discussions</a></b>
 
 ---    
 
