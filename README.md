@@ -20,7 +20,7 @@ Are you afraid of unnecessary stockouts that disturb the flow of your value chai
 ### **Platform Support**
 - **[Android](https://play.google.com/store/apps/details?id=com.es.ims.main)**
 - **[Web [PWA Support]](https://ims.esapps.in)** 
-- **[Windows 10 (64Bit only)](https://ims.esapps.in/about)**
+- **[Windows 10 (64Bit only)](https://ims.esapps.in/about/#footer)**
 
 <table>
     <tr>
