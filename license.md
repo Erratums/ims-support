@@ -81,9 +81,9 @@ The Company may, in its sole discretion, at any time and for any or no reason, s
 <p>If you have any questions about this Agreement, You can contact Us:</p>
 <ul>
 <li>
-<p>By email: support@erratums.com</p>
+<p>By email: <a href="mailto:support@erratums.com">support@erratums.com</a></p>
 </li>
 <li>
-<p>By visiting this page on our website: <a href="https://chat.erratums.com" rel="external nofollow noopener" target="_blank">https://chat.erratums.com</a></p>
+<p>By visiting this page on our website: <a href="https://erratums.com" rel="external nofollow noopener" target="_blank">www.erratums.com</a></p>
 </li>
 </ul>
