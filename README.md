@@ -22,19 +22,4 @@ Are you afraid of unnecessary stockouts that disturb the flow of your value chai
 - **[Web [PWA Support]](https://ims.esapps.in)** 
 - **[Windows 10 (64Bit only)](https://ims.esapps.in/about/#footer)**
 
-<table>
-    <tr>
-        <th>
-            <a href="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-wall-1.jpg"><img src="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-wall-1.jpg"></a>
-        </th>
-        <th>
-            <a href="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-login.png"><img src="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-login.png"></a>
-        </th>
-        <th>
-            <a href="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-home-page.png"><img src="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-home-page.png"></a>
-        </th>
-        <th>
-            <a href="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-user-group.png"><img src="https://raw.githubusercontent.com/wiki/Erratums/ims-support/images/ims-user-group.png"></a>
-        </th>
-    </tr>
-</table>
+[![](https://ims.esapps.in/images/other/ims_promo_video.jpg)](https://youtu.be/Q0gm7QC1zbs)
