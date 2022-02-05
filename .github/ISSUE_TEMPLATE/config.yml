@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Request a New Feature
     url: https://github.com/Erratums/ims-support/discussions/categories/ideas
-    about: Please share your ideas & request new features here 
+    about: Please share your ideas and request new features here
   - name: Questions & Answers
     url: https://github.com/Erratums/ims-support/discussions/categories/q-a
     about: Please ask and answer questions here
