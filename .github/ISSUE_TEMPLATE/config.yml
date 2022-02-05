@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Request a New Feature
+    url: https://github.com/Erratums/ims-support/discussions/categories/ideas
+    about: Please share your ideas & request new features here 
+  - name: Questions & Answers
+    url: https://github.com/Erratums/ims-support/discussions/categories/q-a
+    about: Please ask and answer questions here
   - name: IMS Home Page
     url: https://ims.esapps.in/about/
     about: Online Stock and Inventory Management Software
-  - name: IMS Web App
-    url: https://ims.esapps.in
-    about: Please ask and answer questions here
