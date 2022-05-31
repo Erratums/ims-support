@@ -25,4 +25,5 @@ Are you afraid of unnecessary stockouts that disturb the flow of your value chai
 - **[Web [PWA Support]](https://ims.esapps.in)** 
 - **[Windows 10 (64Bit only)](https://ims.esapps.in/about/#footer)**
 
-[![](https://ims.esapps.in/images/other/ims_promo_video.jpg)](https://youtu.be/Q0gm7QC1zbs)
+[Integrated Management System](https://user-images.githubusercontent.com/48981144/171268303-9ffd4b33-d07a-404d-8685-49d00189fe16.mp4)
+
